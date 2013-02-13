@@ -15,11 +15,11 @@ export SYMBC=/Users/jbranchaud/Documents/research/jpf-symbc
 export MAVEN=/usr/local/maven
 
 # My Scripts Directory
-MYBIN=/usr/mybin
+MYBIN=/Users/jbranchaud/mybin
 
 # important main paths
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/usr/local/git/bin:/usr/texbin:$MAVEN:$MYBIN
 export CLASSPATH=.:$DISE/build/jpf-regression.jar:$DISE/lib/jSMTLIB.jar:$CLASSPATH
 
 # SSH Alias Commands
-alias sshcb='ssh root@198.74.60.157'
+alias sshcb='ssh root@circlebear.com'
