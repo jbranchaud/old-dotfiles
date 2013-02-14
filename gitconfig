@@ -1,0 +1,5 @@
+[user]
+	email = jbranchaud@gmail.com
+	name = jbranchaud
+[credential]
+	helper = osxkeychain
